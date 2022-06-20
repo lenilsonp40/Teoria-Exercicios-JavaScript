@@ -1,2 +1,2 @@
 # Teoria-Exercicios-JavaScript
- Repositório treinando 
+ Treinando os exercíciose e criando projetos dos cursos  realizados.
