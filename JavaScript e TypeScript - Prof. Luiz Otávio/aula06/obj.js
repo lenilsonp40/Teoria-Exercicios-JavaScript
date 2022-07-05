@@ -7,5 +7,13 @@ const pessoa2 = criapessoa('Maria','Oliveira', '32');
 
 console.log(pessoa1.nome, pessoa2.idade);
 
-
-dsdsds
+// Primitivo (imutáveis) - string , number , booolean . undefined , null (bigint , symbol) - valores que são copiados.
+// Referência (mutável) - array , object, function - Passados por referência
+const a = {
+    nome: 'Luiz' ,
+    sobrenome : 'Otávio'
+};
+const b = a ;
+b.nome = 'João';
+console.log(a);
+console.log(b)
