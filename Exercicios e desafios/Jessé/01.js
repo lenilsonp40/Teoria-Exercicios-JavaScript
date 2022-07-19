@@ -1,7 +1,7 @@
 /*
 Escreva um código que produz o seguinte:
 const array = [3, 78, 2, 16, 9]
-total de itens - 5
+total de itens =  5
 soma - 108
 numeros de pares ordenados : [2, 16 ,78]
 */ 
