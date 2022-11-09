@@ -1,4 +1,4 @@
-/*
+
 let hora = 17;
 
 if (hora <= 12) {
@@ -8,7 +8,7 @@ if (hora <= 12) {
 }else if ( hora <= 23) {
     console.log("Boa noite");
 }
-*/
+
 
 
 
